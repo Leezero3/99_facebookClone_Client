@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# 🎉프로젝트이름: 해이스북
+- 프로젝트 설명 : 페이스북 클론코딩
+</br>
+</br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 👦팀원소개
 
-## Available Scripts
+|이름|주특기|깃허브 주소|
+|:---|:---|:---|
+|이영은 F.E (L) |React|https://github.com/Leezero3|
+|최유리 F.E |React|https://github.com/stella0905|
+|김수진 F.E |React|https://github.com/devjjin|
+|오성인 B.E (L) |Node.js|https://github.com/dhtjddls|
+|변수정 B.E |Node.js|https://github.com/crystalation|
+|홍준상 B.E |Node.js|https://github.com/redjun89|
+|강준석 B.E |Node.js|https://github.com/junseok1925|
+|김용식 B.E |Node.js|https://github.com/ystar5008|
+</br>
+</br>
 
-In the project directory, you can run:
+# 🛠구현기능
+- 로그인, 회원가입
+- 게시글 CRUD, (사진 업로드)
+- 좋아요 기능
+- 팔로우 기능
+- 메신저(채팅) 기능
+</br>
+</br>
 
-### `npm start`
+# 🎆Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<div align="center">
+  
+### F.E
+  
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<div align="center">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+</br>
 
-### `npm test`
+<div align="center">
+  
+### B.E
+  
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<div align="center">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
 
-### `npm run build`
+</br>
+</br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 🖼와이어프레임
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Frame 9](https://github.com/99-facebookClone/99_facebookClone_Back/assets/96641210/d1ff6e6c-d704-4a49-8a00-73c5034daab9)
+![글쓰기](https://github.com/99-facebookClone/99_facebookClone_Back/assets/96641210/af0aef27-609a-4a70-be8b-152d54968236)
+![게시판- 글조회(추천게시물) (1)](https://github.com/99-facebookClone/99_facebookClone_Back/assets/96641210/a027c7fc-8939-40df-bf2f-8d91d705eddf)
+![메인](https://github.com/99-facebookClone/99_facebookClone_Back/assets/96641210/25e2697b-0fe2-488b-9790-13372bb6689b)
+![로그인](https://github.com/99-facebookClone/99_facebookClone_Back/assets/96641210/6c4783c2-eb26-4087-9a40-3a9191b86d63)
+![채팅](https://github.com/99-facebookClone/99_facebookClone_Back/assets/96641210/90fac201-aa5e-4007-b278-0252aeaadf44)
+![게시판- 글조회(추천게시물)](https://github.com/99-facebookClone/99_facebookClone_Back/assets/96641210/5acb48b9-55e5-41fd-86ec-a7a303d47d39)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+</br>
+</br>
 
-### `npm run eject`
+# ERD
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![feacerd PNG](https://github.com/99-facebookClone/99_facebookClone_Back/assets/96641210/efb2b0d9-b9fd-4971-8e19-33a338e4f7cf)
